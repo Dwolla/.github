@@ -35,7 +35,7 @@ your PR reviewed.
 
 - <img src="./images/dwolla-icon-full-color.png" alt="LinkedIn" width="13"/> [Dwolla’s Homepage](https://www.dwolla.com/)
 - <img src="./images/api-reference-icon.svg" alt="LinkedIn" width="12"/> [Developer Documentation](https://developers.dwolla.com/) - Find the complete API reference, step-by-step guides and concept articles.
-- <img src="./images/developer-community-icon.svg" alt="LinkedIn" width="13"/> [Developer forum](https://discuss.dwolla.com/) - Find answers to your technical questions from a community of developers and Dwolla engineers.
+- <img src="./images/developer-community-icon.svg" alt="LinkedIn" width="13"/> [Developer Forum](https://discuss.dwolla.com/) - Find answers to your technical questions from a community of developers and Dwolla engineers.
 
 <br/>
 
