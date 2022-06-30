@@ -1,6 +1,6 @@
 ## Welcome to Dwolla’s GitHub Org!
 
-![image info](./images/dwolla-banner.png)
+![image info](https://github.com/Dwolla/.github/raw/main/profile/images/dwolla-banner.png)
 
 :octocat: This is where we host our code samples, examples and open source
 projects to help you get up and running fast with your Dwolla API integration!
@@ -10,12 +10,12 @@ below for quick access!
 
 To find other sample projects, use the following keywords in the search bar:
 
-- <img src="./images/dwolla-demo-app.svg" alt="Examples" width="15"/>  `example`:
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/dwolla-demo-app.svg" alt="Examples" width="15"/>  `example`:
   Examples that show you how to implement certain features of the API like
   Drop-in components, third-party bank verification, etc.
-- <img src="./images/csv-export-sample.svg" alt="Samples" width="15"/>  `sample`:
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/csv-export-sample.svg" alt="Samples" width="15"/>  `sample`:
   Code samples that demonstrate isolated actions you can perform with the API.
-- <img src="./images/guides-icon.svg" alt="Starter Kit" width="15"/>  `starter kit`:
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/guides-icon.svg" alt="Starter Kit" width="15"/>  `starter kit`:
   Dwolla starter-kit apps that illustrate particular use cases or funds flows
   from end to end.
 
@@ -33,9 +33,9 @@ your PR reviewed.
 
 ### 📖 Additional resources available to you
 
-- <img src="./images/dwolla-icon-full-color.png" alt="LinkedIn" width="13"/> [Dwolla’s Homepage](https://www.dwolla.com/)
-- <img src="./images/api-reference-icon.svg" alt="LinkedIn" width="12"/> [Developer Documentation](https://developers.dwolla.com/) - Find the complete API reference, step-by-step guides and concept articles.
-- <img src="./images/developer-community-icon.svg" alt="LinkedIn" width="13"/> [Developer Forum](https://discuss.dwolla.com/) - Find answers to your technical questions from a community of developers and Dwolla engineers.
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/dwolla-icon-full-color.png" alt="LinkedIn" width="13"/> [Dwolla’s Homepage](https://www.dwolla.com/)
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/api-reference-icon.svg" alt="LinkedIn" width="12"/> [Developer Documentation](https://developers.dwolla.com/) - Find the complete API reference, step-by-step guides and concept articles.
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/developer-community-icon.svg" alt="LinkedIn" width="13"/> [Developer Forum](https://discuss.dwolla.com/) - Find answers to your technical questions from a community of developers and Dwolla engineers.
 
 <br/>
 
@@ -43,12 +43,12 @@ your PR reviewed.
 
 <br />
   <a href="https://www.linkedin.com/company/dwolla/">
-<img src="./images/icon-linkedin-light-orange.svg" alt="LinkedIn" width="20"/></a>
+<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-linkedin-light-orange.svg" alt="LinkedIn" width="20"/></a>
   <a href="https://www.twitter.com/dwolla/">
-<img src="./images/icon-twitter-light-orange.svg" alt="Twitter" width="20"/></a>
+<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-twitter-light-orange.svg" alt="Twitter" width="20"/></a>
   <a href="https://www.instagram.com/dwolla/">
-<img src="./images/icon-instagram-light-orange.svg" alt="Instagram" width="20"/></a>
+<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-instagram-light-orange.svg" alt="Instagram" width="20"/></a>
   <a href="https://www.facebook.com/dwolla">
-<img src="./images/icon-facebook-light-orange.svg" alt="Facebook" width="20"/></a> 
+<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-facebook-light-orange.svg" alt="Facebook" width="20"/></a> 
   <a href="https://www.youtube.com/c/DwollaPlatform">
-<img src="./images/icon-youtube-light-orange.svg" alt="YouTube" width="20"/></a>
+<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-youtube-light-orange.svg" alt="YouTube" width="20"/></a>
