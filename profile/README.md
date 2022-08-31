@@ -11,13 +11,11 @@ below for quick access!
 To find other sample projects, use the following keywords in the search bar:
 
 - <img src="https://github.com/Dwolla/.github/raw/main/profile/images/dwolla-demo-app.svg" alt="Examples" width="15"/>  `example`:
-  Examples that show you how to implement certain features of the API like
-  Drop-in components, third-party bank verification, etc.
-- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/csv-export-sample.svg" alt="Samples" width="15"/>  `sample`:
-  Code samples that demonstrate isolated actions you can perform with the API.
-- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/guides-icon.svg" alt="Starter Kit" width="15"/>  `starter kit`:
-  Dwolla starter-kit apps that illustrate particular use cases or funds flows
-  from end to end.
+  Examples that show you how to implement certain features of the API like Drop-in components, third-party bank verification, etc.
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/csv-export-sample.svg" alt="snippet" width="15"/>  `snippet`:
+  Code snippet that demonstrate isolated actions you can perform with the API.
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/guides-icon.svg" alt="app" width="15"/>  `app`:
+  Dwolla apps that illustrate particular use cases or funds flows from end to end.
 
 ### 👩‍💻 Get involved!
 
