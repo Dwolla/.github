@@ -31,9 +31,9 @@ your PR reviewed.
 
 ### 📖 Additional resources available to you
 
-- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/dwolla-icon-full-color.png" alt="LinkedIn" width="13"/> [Dwolla’s Homepage](https://www.dwolla.com/)
-- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/api-reference-icon.svg" alt="LinkedIn" width="12"/> [Developer Documentation](https://developers.dwolla.com/) - Find the complete API reference, step-by-step guides and concept articles.
-- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/developer-community-icon.svg" alt="LinkedIn" width="13"/> [Developer Forum](https://discuss.dwolla.com/) - Find answers to your technical questions from a community of developers and Dwolla engineers.
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/dwolla-icon-full-color.png" alt="Dwolla" width="13"/> [Dwolla’s Homepage](https://www.dwolla.com/)
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/api-reference-icon.svg" alt="API Reference" width="12"/> [Developer Documentation](https://developers.dwolla.com/) - Find the complete API reference, step-by-step guides and concept articles.
+- <img src="https://github.com/Dwolla/.github/raw/main/profile/images/developer-community-icon.svg" alt="Developer Community" width="13"/> [Developer Forum](https://discuss.dwolla.com/) - Find answers to your technical questions from a community of developers and Dwolla engineers.
 
 <br/>
 
@@ -45,8 +45,4 @@ your PR reviewed.
   <a href="https://www.twitter.com/dwolla/">
 <img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-twitter-light-orange.svg" alt="Twitter" width="20"/></a>
   <a href="https://www.instagram.com/dwolla/">
-<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-instagram-light-orange.svg" alt="Instagram" width="20"/></a>
-  <a href="https://www.facebook.com/dwolla">
-<img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-facebook-light-orange.svg" alt="Facebook" width="20"/></a> 
-  <a href="https://www.youtube.com/c/DwollaPlatform">
 <img src="https://github.com/Dwolla/.github/raw/main/profile/images/icon-youtube-light-orange.svg" alt="YouTube" width="20"/></a>
